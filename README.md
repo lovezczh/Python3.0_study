@@ -1,7 +1,7 @@
 # Python3.0_study
 bioinformatics study
-###3.14 更新自己写的程序
-cat blast_fasta_bed.py
+#3.14 更新自己写的程序
+
 import click
 
 @click.command()
